@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|c:\\users\\pc\\desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\c# projects\\brjs\\brjs\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|solutionrelative:brjs\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|solutionrelative:brjs\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|solutionrelative:brjs\\bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|solutionrelative:brjs\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|c:\\users\\pc\\desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\c# projects\\brjs\\brjs\\resetpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|solutionrelative:brjs\\resetpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|c:\\users\\pc\\desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\c# projects\\brjs\\brjs\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|solutionrelative:brjs\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|c:\\users\\pc\\desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\c# projects\\brjs\\brjs\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|solutionrelative:brjs\\additem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\showorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|solutionrelative:brjs\\showorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|solutionrelative:brjs\\resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|c:\\users\\pc\\desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\c# projects\\brjs\\brjs\\bills.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|solutionrelative:brjs\\bills.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|c:\\users\\pc\\desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\c# projects\\brjs\\brjs\\showorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|solutionrelative:brjs\\showorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|c:\\users\\pc\\desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\c# projects\\brjs\\brjs\\additem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3412052-F79D-4553-8431-5C16A0A214E0}|brjs\\brjs.csproj|solutionrelative:brjs\\additem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\Main.cs",
+              "RelativeDocumentMoniker": "brjs\\Main.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\Main.cs*",
+              "RelativeToolTip": "brjs\\Main.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:31:25.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddItem.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\AddItem.cs",
+              "RelativeDocumentMoniker": "brjs\\AddItem.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\AddItem.cs",
+              "RelativeToolTip": "brjs\\AddItem.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowD4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:26:11.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bills.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\Bills.cs",
+              "RelativeDocumentMoniker": "brjs\\Bills.cs",
+              "ToolTip": "E:\\lorns\\C#\\brjs\\brjs\\Bills.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T12:39:01.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddItem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\AddItem.cs",
+              "RelativeDocumentMoniker": "brjs\\AddItem.cs",
+              "ToolTip": "E:\\lorns\\C#\\brjs\\brjs\\AddItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:31:15.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShowOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\ShowOrder.cs",
+              "RelativeDocumentMoniker": "brjs\\ShowOrder.cs",
+              "ToolTip": "E:\\lorns\\C#\\brjs\\brjs\\ShowOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:05:37.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "resetPassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\resetPassword.cs",
+              "RelativeDocumentMoniker": "brjs\\resetPassword.cs",
+              "ToolTip": "E:\\lorns\\C#\\brjs\\brjs\\resetPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:30:07.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\Main.cs",
+              "RelativeDocumentMoniker": "brjs\\Main.cs",
+              "ToolTip": "E:\\lorns\\C#\\brjs\\brjs\\Main.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:56:10.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "brjs\\Main.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\Main.Designer.cs",
+              "RelativeToolTip": "brjs\\Main.Designer.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAD4v5MAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:59:27.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "resetPassword.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\resetPassword.Designer.cs",
+              "RelativeDocumentMoniker": "brjs\\resetPassword.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\resetPassword.Designer.cs",
+              "RelativeToolTip": "brjs\\resetPassword.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAASwFYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:34:10.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bills.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\Bills.Designer.cs",
+              "RelativeDocumentMoniker": "brjs\\Bills.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\Bills.Designer.cs",
+              "RelativeToolTip": "brjs\\Bills.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIAxwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:04:01.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddItem.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\AddItem.Designer.cs",
+              "RelativeDocumentMoniker": "brjs\\AddItem.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\AddItem.Designer.cs",
+              "RelativeToolTip": "brjs\\AddItem.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:35:55.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShowOrder.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\ShowOrder.Designer.cs",
+              "RelativeDocumentMoniker": "brjs\\ShowOrder.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0645\u0642\u0627\u0644\u0628\u0629\\C# Projects\\brjs\\brjs\\ShowOrder.Designer.cs",
+              "RelativeToolTip": "brjs\\ShowOrder.Designer.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAD4v64AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T19:01:15.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

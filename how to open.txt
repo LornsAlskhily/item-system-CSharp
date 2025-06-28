@@ -1,0 +1,3 @@
+in execution file open brjs 
+
+you don't need to enter email and password to open the app

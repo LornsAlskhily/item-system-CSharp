@@ -1,0 +1,66 @@
+E:\lorns\C#\brjs\brjs\bin\Debug\net8.0-windows\brjs.exe
+E:\lorns\C#\brjs\brjs\bin\Debug\net8.0-windows\brjs.deps.json
+E:\lorns\C#\brjs\brjs\bin\Debug\net8.0-windows\brjs.runtimeconfig.json
+E:\lorns\C#\brjs\brjs\bin\Debug\net8.0-windows\brjs.dll
+E:\lorns\C#\brjs\brjs\bin\Debug\net8.0-windows\brjs.pdb
+E:\lorns\C#\brjs\brjs\obj\Debug\net8.0-windows\brjs.csproj.GenerateResource.cache
+E:\lorns\C#\brjs\brjs\obj\Debug\net8.0-windows\brjs.GeneratedMSBuildEditorConfig.editorconfig
+E:\lorns\C#\brjs\brjs\obj\Debug\net8.0-windows\brjs.AssemblyInfoInputs.cache
+E:\lorns\C#\brjs\brjs\obj\Debug\net8.0-windows\brjs.AssemblyInfo.cs
+E:\lorns\C#\brjs\brjs\obj\Debug\net8.0-windows\brjs.csproj.CoreCompileInputs.cache
+E:\lorns\C#\brjs\brjs\obj\Debug\net8.0-windows\brjs.dll
+E:\lorns\C#\brjs\brjs\obj\Debug\net8.0-windows\refint\brjs.dll
+E:\lorns\C#\brjs\brjs\obj\Debug\net8.0-windows\brjs.pdb
+E:\lorns\C#\brjs\brjs\obj\Debug\net8.0-windows\brjs.genruntimeconfig.cache
+E:\lorns\C#\brjs\brjs\obj\Debug\net8.0-windows\ref\brjs.dll
+E:\lorns\C#\brjs\brjs\obj\Debug\net8.0-windows\brjs.Properties.Resources.resources
+E:\lorns\C#\brjs\brjs\obj\Debug\net8.0-windows\brjs.UserControl1.resources
+E:\lorns\C#\brjs\brjs\bin\Debug\net8.0-windows\Guna.UI2.dll
+E:\lorns\C#\brjs\brjs\bin\Debug\net8.0-windows\System.Management.dll
+E:\lorns\C#\brjs\brjs\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\lorns\C#\brjs\brjs\obj\Debug\net8.0-windows\brjs.csproj.AssemblyReference.cache
+E:\lorns\C#\brjs\brjs\obj\Debug\net8.0-windows\brjs.csproj.Up2Date
+E:\lorns\C#\brjs\brjs\obj\Debug\net8.0-windows\brjs.resetPassword.resources
+E:\lorns\C#\brjs\brjs\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\lorns\C#\brjs\brjs\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\lorns\C#\brjs\brjs\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\lorns\C#\brjs\brjs\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\lorns\C#\brjs\brjs\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\lorns\C#\brjs\brjs\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\lorns\C#\brjs\brjs\obj\Debug\net8.0-windows\brjs.ShowOrder.resources
+E:\lorns\C#\brjs\brjs\obj\Debug\net8.0-windows\brjs.Bills.resources
+E:\lorns\C#\brjs\brjs\obj\Debug\net8.0-windows\brjs.Main.resources
+E:\lorns\C#\brjs\brjs\obj\Debug\net8.0-windows\brjs.AddItem.resources
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\bin\Debug\net8.0-windows\brjs.exe
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\bin\Debug\net8.0-windows\brjs.deps.json
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\bin\Debug\net8.0-windows\brjs.runtimeconfig.json
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\bin\Debug\net8.0-windows\brjs.dll
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\bin\Debug\net8.0-windows\brjs.pdb
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\obj\Debug\net8.0-windows\brjs.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\obj\Debug\net8.0-windows\brjs.AddItem.resources
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\obj\Debug\net8.0-windows\brjs.Bills.resources
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\obj\Debug\net8.0-windows\brjs.Main.resources
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\obj\Debug\net8.0-windows\brjs.Properties.Resources.resources
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\obj\Debug\net8.0-windows\brjs.resetPassword.resources
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\obj\Debug\net8.0-windows\brjs.ShowOrder.resources
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\obj\Debug\net8.0-windows\brjs.UserControl1.resources
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\obj\Debug\net8.0-windows\brjs.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\obj\Debug\net8.0-windows\brjs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\obj\Debug\net8.0-windows\brjs.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\obj\Debug\net8.0-windows\brjs.AssemblyInfo.cs
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\obj\Debug\net8.0-windows\brjs.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\obj\Debug\net8.0-windows\brjs.csproj.Up2Date
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\obj\Debug\net8.0-windows\brjs.dll
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\obj\Debug\net8.0-windows\refint\brjs.dll
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\obj\Debug\net8.0-windows\brjs.pdb
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\obj\Debug\net8.0-windows\brjs.genruntimeconfig.cache
+C:\Users\PC\Desktop\مقالبة\C# Projects\brjs\brjs\obj\Debug\net8.0-windows\ref\brjs.dll
